@@ -2,7 +2,7 @@
 
 ## Hoe je het programma werkend krijgt:
 
-Microsoft SQL Server Studio installeren, en de databse dump( PMS.bak) er aan toevoegen. Dat kan als volgt:
+Microsoft SQL Server Studio installeren, en de databse dump (PMS.bak) er aan toevoegen. Dat kan als volgt:
 
 - Right click `Databases` on left pane (Object Explorer)
 - Click `Restore Database...`
