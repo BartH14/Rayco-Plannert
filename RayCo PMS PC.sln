@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RayCo PMS PC", "RayCo PMS PC.csproj", "{0135529A-E0B5-41FB-8F71-413A622B6CBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0135529A-E0B5-41FB-8F71-413A622B6CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0135529A-E0B5-41FB-8F71-413A622B6CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0135529A-E0B5-41FB-8F71-413A622B6CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0135529A-E0B5-41FB-8F71-413A622B6CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A01ADD6-5A92-4434-A9A8-ADB692D6D7F0}
+	EndGlobalSection
+EndGlobal

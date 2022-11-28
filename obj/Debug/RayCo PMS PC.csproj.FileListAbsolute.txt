@@ -1,0 +1,33 @@
+D:\C#\PC\RayCo PMS PC\bin\Debug\RayCo PMS PC.exe.config
+D:\C#\PC\RayCo PMS PC\bin\Debug\RayCo PMS PC.exe
+D:\C#\PC\RayCo PMS PC\bin\Debug\RayCo PMS PC.pdb
+D:\C#\PC\RayCo PMS PC\obj\Debug\RayCo PMS PC.csproj.AssemblyReference.cache
+D:\C#\PC\RayCo PMS PC\obj\Debug\RayCo PMS PC.csproj.SuggestedBindingRedirects.cache
+D:\C#\PC\RayCo PMS PC\obj\Debug\RayCo_PMS_PC.Login.resources
+D:\C#\PC\RayCo PMS PC\obj\Debug\RayCo_PMS_PC.Properties.Resources.resources
+D:\C#\PC\RayCo PMS PC\obj\Debug\RayCo PMS PC.csproj.GenerateResource.cache
+D:\C#\PC\RayCo PMS PC\obj\Debug\RayCo PMS PC.csproj.CoreCompileInputs.cache
+D:\C#\PC\RayCo PMS PC\obj\Debug\RayCo PMS PC.exe
+D:\C#\PC\RayCo PMS PC\obj\Debug\RayCo PMS PC.pdb
+D:\C#\PC\RayCo PMS PC\bin\Debug\MySql.Data.dll
+D:\C#\PC\RayCo PMS PC\bin\Debug\Google.Protobuf.dll
+D:\C#\PC\RayCo PMS PC\bin\Debug\ZstdNet.dll
+D:\C#\PC\RayCo PMS PC\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\C#\PC\RayCo PMS PC\bin\Debug\BouncyCastle.Crypto.dll
+D:\C#\PC\RayCo PMS PC\bin\Debug\System.Memory.dll
+D:\C#\PC\RayCo PMS PC\bin\Debug\System.Buffers.dll
+D:\C#\PC\RayCo PMS PC\bin\Debug\K4os.Compression.LZ4.dll
+D:\C#\PC\RayCo PMS PC\bin\Debug\K4os.Hash.xxHash.dll
+D:\C#\PC\RayCo PMS PC\bin\Debug\System.Numerics.Vectors.dll
+D:\C#\PC\RayCo PMS PC\bin\Debug\MySql.Data.xml
+D:\C#\PC\RayCo PMS PC\obj\Debug\RayCo PMS PC.exe.config
+D:\C#\PC\RayCo PMS PC\obj\Debug\RayCo PMS PC.csproj.CopyComplete
+D:\C#\PC\RayCo PMS PC\obj\Debug\RayCo_PMS_PC.Forms.Dashboard.resources
+D:\C#\PC\RayCo PMS PC\obj\Debug\RayCo_PMS_PC.Forms.ProjectLidToevoegen.resources
+D:\C#\PC\RayCo PMS PC\obj\Debug\RayCo_PMS_PC.Forms.ProjectToevoegen.resources
+D:\C#\PC\RayCo PMS PC\obj\Debug\RayCo_PMS_PC.Forms.ProjectLedenOverzicht.resources
+D:\C#\PC\RayCo PMS PC\obj\Debug\RayCo_PMS_PC.Forms.TaakToevoegen.resources
+D:\C#\PC\RayCo PMS PC\obj\Debug\RayCo_PMS_PC.Forms.TaakBeheren.resources
+D:\C#\PC\RayCo PMS PC\obj\Debug\RayCo_PMS_PC.Forms.ProjectBeheren.resources
+D:\C#\PC\RayCo PMS PC\obj\Debug\RayCo_PMS_PC.Forms.ProjectTemplateToevoegen.resources
+D:\C#\PC\RayCo PMS PC\obj\Debug\RayCo_PMS_PC.Forms.DashboardAdmin.resources
