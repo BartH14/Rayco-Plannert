@@ -9,7 +9,7 @@ Microsoft SQL Server Studio installeren, en de databse dump er aan toevoegen. Da
 - Choose Device, click `...`, and add your .bak file
 - Click `OK`, then `OK` again
 
-De connection string is de local host, zou deze niet werken kan die in de class `Verbinding` worden aangepast.
+De connection string is de local host, zou deze niet werken kan die in de class `DBConnectie` worden aangepast.
 De HRTool hoeft niet te draaien, die functionaliteit ontbreekt nog.
 
 ## Hoe log je in:
